@@ -2,6 +2,13 @@
 
 A machine learning project that predicts loan approval decisions using LightGBM, built with a focus on preventing data leakage, handling class imbalance, and model interpretability.
 
+🌐 Live Demo
+
+🚀 You can test the deployed model here:
+
+🔗 Streamlit App:
+https://fatih-loan-risk-data-set.streamlit.app/
+
 ---
 
 ## 📁 Project Structure
