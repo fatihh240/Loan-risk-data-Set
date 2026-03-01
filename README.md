@@ -4,6 +4,8 @@ A machine learning project that predicts loan approval decisions using LightGBM,
 
 🌐 Live Demo
 
+> ⚠️ **Disclaimer:** This application is a simulation and educational project only. Results do not constitute a real credit assessment and should not be used for financial decision-making.
+> 
 🚀 You can test the deployed model here:
 
 🔗 Streamlit App:
